@@ -1,3 +1,7 @@
 <resources>
+
     <string name="app_name">CameraSample</string>
+
+    <string name="take_picture">카메라 사진찍기</string>
+
 </resources>
